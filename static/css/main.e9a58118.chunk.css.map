@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Count.scss"],"names":[],"mappings":"AAAA,kBACE,iBAAkB","file":"main.e9a58118.chunk.css","sourcesContent":[".count__container {\n  text-align: center;\n}\n"]}
